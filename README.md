@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @svcu
-- 👀 I’m interested in AI,fullstack development
+- 👀 I’m interested in AI, fullstack development
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me: email sergiovaldes2310@outlook.com
