@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svcu
 - 👀 I’m interested in AI, fullstack development
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on any open source project
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on a Web 3.0 project
 - 📫 How to reach me: email sergiovaldes2310@outlook.com
 
 <!---
