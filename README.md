@@ -6,6 +6,8 @@
 
 # [![trophy](https://github-profile-trophy.vercel.app/?username=svcu)](https://github.com/svcu/github-profile-trophy)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svcu&show_icons=true&theme=radical)
+
 <!---
 svcu/svcu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
