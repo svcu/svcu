@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @svcu
-- 👀 I’m interested in AI, fullstack development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on a Web 3.0 project
-- 📫 How to reach me: email sergiovaldes2310@outlook.com
+- Backend Developer
+
+Currently practicing old skills and learning new ones.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svcu&show_icons=true&theme=radical)
